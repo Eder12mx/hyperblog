@@ -2,3 +2,4 @@
 Un blog increíble
 
 *Creado por Eder
+*Incluye baterias
